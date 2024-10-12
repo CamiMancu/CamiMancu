@@ -1,5 +1,5 @@
-## Repositoria inicial👋
-# Este es mi primer repositorio para practicar y aprender las utilidades de github
+# Repositoria inicial👋
+## Este es mi primer repositorio para practicar y aprender las utilidades de github
 <!--
 **CamiMancu/CamiMancu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
