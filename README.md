@@ -1,4 +1,4 @@
-# `#0969DA` Repositorio inicial👋
+# Repositorio **inicial**👋
 > Este es mi primer repositorio para practicar y aprender las utilidades de github
 - [ ] Practicar y aprender las utilidades de github
 - [ ] Aprender el uso de Git
