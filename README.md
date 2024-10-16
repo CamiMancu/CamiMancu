@@ -1,8 +1,8 @@
 # Repositorio *inicial*👋
 > Este es mi primer repositorio para practicar y aprender las utilidades de github
-- [ ] Practicar y aprender las utilidades de github
-- [ ] Aprender el uso de Git
-- [ ] Practicar la interacción entre git y github
+- [x] Practicar y aprender las utilidades de github
+- [x] Aprender el uso de Git
+- [x] Practicar la interacción entre git y github
 <!--
 **CamiMancu/CamiMancu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
